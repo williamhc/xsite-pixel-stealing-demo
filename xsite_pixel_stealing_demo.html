@@ -1,0 +1,16 @@
+<head>
+  <title>xsite pixel stealing</title>
+</head>
+
+<body>
+  {{> body}}
+</body>
+
+<template name="body">
+  <h1>I am going to steal your stuff!</h1>
+  {{> fps_counter}}
+</template>
+
+<template name="fps_counter">
+  <div class="pull-right"> FPS: {{ fps }} </div>
+</template>
