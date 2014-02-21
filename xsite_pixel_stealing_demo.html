@@ -7,10 +7,24 @@
 </body>
 
 <template name="body">
-  <h1>I am going to steal your stuff!</h1>
-  {{> fps_counter}}
+  <div class="container full-height">
+    <div class="row full-height">
+      <div class="span10 full-height">
+        {{> attack_iframe }}
+      </div>
+      <div class="span2">
+        {{> fps_counter }}
+      </div>
+    </div>
+  </div>
 </template>
 
 <template name="fps_counter">
-  <div class="pull-right"> FPS: {{ fps }} </div>
+  <div id="fps">
+    FPS: {{ fps }}
+  </div>
+</template>
+
+<template name="attack_iframe">
+  <iframe id="attack-iframe" src="http://edition.cnn.com/"/>
 </template>

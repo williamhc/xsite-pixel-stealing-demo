@@ -1,0 +1,91 @@
+Test #0: [1ms]
+  http://edition.cnn.com/: 11.84
+  http://getbootstrap.com/: 10.24
+  Delta: -1.5999999999999996
+
+
+Test #1: [11ms]
+  http://edition.cnn.com/: 9.15
+  http://getbootstrap.com/: 12.02
+  Delta: 2.869999999999999
+
+
+Test #2: [51ms]
+  http://edition.cnn.com/: 16.77
+  http://getbootstrap.com/: 18.75
+  Delta: 1.9800000000000004
+
+
+Test #3: [101ms]
+  http://edition.cnn.com/: 23.85
+  http://getbootstrap.com/: 25.66
+  Delta: 1.8099999999999987
+
+
+Test #4: [151ms]
+  http://edition.cnn.com/: 28.19
+  http://getbootstrap.com/: 30.32
+  Delta: 2.129999999999999
+
+
+Test #5: [199ms]
+  http://edition.cnn.com/: 33.75
+  http://getbootstrap.com/: 33.75
+  Delta: 0
+
+
+Test #6: [307ms]
+  http://edition.cnn.com/: 30.48
+  http://getbootstrap.com/: 30.88
+  Delta: 0.3999999999999986
+
+
+Test #7: [401ms]
+  http://edition.cnn.com/: 33.20
+  http://getbootstrap.com/: 33.45
+  Delta: 0.25
+
+
+Test #8: [499ms]
+  http://edition.cnn.com/: 29.45
+  http://getbootstrap.com/: 31.39
+  Delta: 1.9400000000000013
+
+
+Test #9: [701ms]
+  http://edition.cnn.com/: 32.56
+  http://getbootstrap.com/: 31.99
+  Delta: -0.5700000000000038
+
+
+Test #10: [997ms]
+  http://edition.cnn.com/: 33.59
+  http://getbootstrap.com/: 33.99
+  Delta: 0.3999999999999986
+
+
+Test #11: [1999ms]
+  http://edition.cnn.com/: 32.11
+  http://getbootstrap.com/: 32.25
+  Delta: 0.14000000000000057
+
+
+Test #12: [3001ms]
+  http://edition.cnn.com/: 32.47
+  http://getbootstrap.com/: 34.40
+  Delta: 1.9299999999999997
+
+
+Test #13: [5003ms]
+  http://edition.cnn.com/: 32.82
+  http://getbootstrap.com/: 33.58
+  Delta: 0.759999999999998
+
+
+Test #14: [undefinedms]
+  http://edition.cnn.com/: 8.73
+  http://getbootstrap.com/: 10.38
+  Delta: 1.6500000000000004
+
+
+Finished all tests
